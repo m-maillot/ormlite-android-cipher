@@ -37,7 +37,7 @@ import com.j256.ormlite.logger.LoggerFactory;
  */
 public class AndroidLog implements com.j256.ormlite.logger.Log {
 
-	private final static String ALL_LOGS_NAME = "ORMLite";
+	private final static String ALL_LOGS_NAME = "ORMLite-CRYPTO";
 	private final static int REFRESH_LEVEL_CACHE_EVERY = 200;
 
 	private final static int MAX_TAG_LENGTH = 23;
