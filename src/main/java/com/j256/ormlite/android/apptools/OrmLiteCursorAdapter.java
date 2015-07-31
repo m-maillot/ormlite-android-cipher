@@ -3,7 +3,7 @@ package com.j256.ormlite.android.apptools;
 import java.sql.SQLException;
 
 import android.content.Context;
-import android.database.Cursor;
+importnet.sqlcipher.Cursor;
 import android.view.View;
 import android.widget.CursorAdapter;
 

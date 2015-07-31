@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.sql.SQLException;
 import java.sql.Savepoint;
 
-import android.database.Cursor;
+importnet.sqlcipher.Cursor;
 import net.sqlcipher.database.SQLiteDatabase;
 import net.sqlcipher.database.SQLiteStatement;
 

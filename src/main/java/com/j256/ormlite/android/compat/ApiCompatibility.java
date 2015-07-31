@@ -1,6 +1,6 @@
 package com.j256.ormlite.android.compat;
 
-import android.database.Cursor;
+importnet.sqlcipher.Cursor;
 import net.sqlcipher.database.SQLiteDatabase;
 
 /**
